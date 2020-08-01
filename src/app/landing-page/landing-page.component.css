@@ -1,0 +1,19 @@
+agm-map {
+  height: 300px;
+}
+
+.first-table {
+  float: left;
+}
+
+.second-table {
+  float: left;
+}
+
+.table tr {
+  line-height: 50px;
+}
+
+/* th.mat-header-cell:first-of-type, td.mat-cell:first-of-type, td.mat-footer-cell:first-of-type {
+  padding-left: 269px;
+} */
